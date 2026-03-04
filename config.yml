@@ -1,0 +1,82 @@
+# Seu usuário do GitHub
+username: guii7
+
+# Informações do perfil
+profile:
+  name: "Guilherme de Lima Andrade" # Substitua pelo seu nome
+  tagline: "Software Developer & SaaS Founder"
+  company: "Bear Cave Labs"
+  location: "Uberlândia, MG"
+  bio: |
+    Desenvolvedor de software com 10 anos de background em TI e Customer Success.
+    Atualmente focado na construção de produtos SaaS (como Lojic, VisuNutri e VisuPersonal),
+    desenvolvimento de integrações financeiras e automações de IA utilizando Python e N8N.
+  philosophy: '"Construindo sistemas que resolvem problemas reais e automatizam o dia a dia."'
+
+# Links sociais
+social:
+  email: "guii7.andrade@gmail.com" # Substitua
+  linkedin: "guii7andrade" # Substitua
+  website: "bearcavelabs.com.br" # Substitua
+
+# Os 3 "braços" da galáxia que mostram seu foco
+galaxy_arms:
+  - name: "IA & Automação"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "N8N"
+      - "Supabase/PostgreSQL"
+      - "Process Automation"
+  - name: "Backend & SaaS"
+    color: "dendrite_violet"
+    items:
+      - "Desenvolvimento de APIs"
+      - "Integração PIX"
+      - "Webhooks"
+  - name: "Infra & Ferramentas"
+    color: "axon_amber"
+    items:
+      - "Git"
+      - "Docker"
+      - "Linux"
+
+# Seus projetos em destaque (ajuste o 'repo' para os caminhos reais no seu GitHub)
+projects:
+  - repo: "guii7/lojic" # Ajuste para o link real
+    arm: 1
+    description: "Lojic: Mini-ERP em modelo SaaS voltado para gestão de lojas e nichos diversos."
+  - repo: "guii7/visunutri" # Ajuste para o link real
+    arm: 0
+    description: "VisuNutri: Bot de nutrição e acompanhamento automatizado multiplataforma."
+  - repo: "guii7/visupersonal" # Ajuste para o link real
+    arm: 1
+    description: "VisuPersonal: Bot de personal trainer e acompanhamento automatizado multiplataforma."
+
+# Cores do tema (mantido o padrão espacial do projeto)
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Métricas que aparecerão
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Configuração do gráfico de linguagens
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+  max_display: 8
